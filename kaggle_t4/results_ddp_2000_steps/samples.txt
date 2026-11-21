@@ -1,0 +1,21 @@
+Samples after 2000 steps (temperature 0.8, top-k 40)
+
+PROMPT: The history of the city
+OUTPUT: The history of the city of the International Council
+The New York Times, of 2011 by October when he had said that the majority of the first two years have developed 16 per cent (342), as they were not responsible for
+
+PROMPT: In this article, we will explain
+OUTPUT: In this article, we will explain how to work with our own team. It is in the 2003, we may find some of our community, but this will be a very popular place to provide our customers who make it possible, in fact the world of
+
+PROMPT: Scientists have discovered that
+OUTPUT: Scientists have discovered that they're a member of a few weeks.
+It's not a good work that is not about to them, it's not just the opportunity for the first time they can be done.
+How does it be.
+
+
+PROMPT: The best way to learn a new language is
+OUTPUT: The best way to learn a new language is the most popular of the day.
+For more information, you need to find more about.
+To send a lot of your content at email:
+The 20112000 - 0% of the world
+
